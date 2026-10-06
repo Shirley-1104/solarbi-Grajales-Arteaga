@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# SolarBI - datos sensibles
+.env
+*.env
+data/bronze/*.csv
