@@ -222,4 +222,4 @@ __marimo__/
 # SolarBI - datos sensibles
 .env
 *.env
-data/bronze/*.csv
+#data/bronze/*.csv
