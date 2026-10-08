@@ -24,9 +24,9 @@
 
 ##### \## Estructura del repositorio
 
-##### \- `docs/` — PDF de la consulta (entrega final)
+##### \- `docs/` — PDF de la consulta 
 
-##### \- `data/bronze/` — datos crudos simulados (no se modifican)
+##### \- `data/bronze/` — datos crudos simulados 
 
 ##### \- `data/silver/` — datos limpios, después de aplicar reglas de calidad
 
@@ -34,7 +34,7 @@
 
 ##### \- `sql/` — scripts de creación de tablas y cargas en PostgreSQL
 
-##### \- `powerbi/` — archivo `.pbix` o proyecto `.pbip`
+##### \- `powerbi/` — archivo `.pbix` 
 
 ##### \- `grafana/` — `dashboard.json` exportado
 
