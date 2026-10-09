@@ -3,7 +3,7 @@
   "kind": "Dashboard",
   "metadata": {
     "name": "ad2mnz7",
-    "generation": 10,
+    "generation": 11,
     "creationTimestamp": "2026-10-08T22:02:41Z",
     "labels": {},
     "annotations": {}
@@ -290,11 +290,7 @@
                     "steps": [
                       {
                         "value": 0,
-                        "color": "green"
-                      },
-                      {
-                        "value": 80,
-                        "color": "red"
+                        "color": "dark-red"
                       },
                       {
                         "value": 90,
